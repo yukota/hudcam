@@ -13,4 +13,3 @@ controller = Controller(model)
 
 #viewの作成
 view = View(controller)
-

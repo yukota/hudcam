@@ -1,2 +1,5 @@
-*.jpg
+tmp*.jpg
+*.swp
 *.pyc
+
+.DS_STORE
